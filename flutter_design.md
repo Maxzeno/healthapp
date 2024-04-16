@@ -1,0 +1,7 @@
+The design and functional choices for the 'HealthTracker' application using Flutter, adhering to clean code architecture principles, focus on simplicity, maintainability, and scalability. The application's front-end is designed with a user-friendly interface, utilizing Flutter's Material Design widgets for a cohesive and intuitive user experience. The dashboard, a central hub for displaying daily health metrics, is implemented with custom widgets that dynamically update based on user inputs.
+
+Forms for inputting daily steps, water intake, and calorie consumption are created using Flutter's Form and TextFormField widgets, ensuring data validation and user feedback. These forms are integrated with the application's state management, allowing for real-time updates and error handling.
+
+The application's architecture follows clean code principles, with a clear separation of concerns. The use of Flutter's clean code architecture ensures that the UI is reactive and updates seamlessly in response to user actions and data changes.
+
+This design choice ensures that 'HealthTracker' is not only functional but also scalable, allowing for future enhancements such as integration with wearable devices or the addition of new health metrics tracking features.
